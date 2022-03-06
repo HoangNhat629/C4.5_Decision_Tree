@@ -1,0 +1,8 @@
+- Bước 1: Mở folder C4.5 trên Netbeans
+- Bước 2: Run file class form.java 
+- Bước 3: Nhập file data.txt trong thư mục Data
+- Bước 4: Bôi đen dữ liệu từ bảng Input sau đó Kiểm tra và Huấn luyện
+- Bước 5: Huấn luyện dữ liệu
+- Bước 6: Tính toán Dữ liệu
+- Bước 7: Xem cây quyết định
+- Bước 8: Chọn tiêu chí để tìm nghề phù hợp
