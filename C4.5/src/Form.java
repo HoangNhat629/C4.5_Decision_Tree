@@ -1,5 +1,5 @@
 
-import com.sun.xml.internal.ws.api.streaming.XMLStreamWriterFactory;
+//import com.sun.xml.internal.ws.api.streaming.XMLStreamWriterFactory;
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
@@ -17,7 +17,7 @@ import java.util.Scanner;
 import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import static javafx.scene.input.KeyCode.N;
+//import static javafx.scene.input.KeyCode.N;
 import javax.swing.ImageIcon;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
